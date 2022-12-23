@@ -1692,7 +1692,7 @@ __func__.6932:
 	.string	"entry"
 	.section	.rodata.spl_load_simple_fit.str1.1,"aMS",@progbits,1
 .LC12:
-	.string	"Trying fit image at 0x%lx sector\n"
+	.string	"zxzxzxTrying fit image at 0x%lx sector\n"
 .LC13:
 	.string	"IO error\n"
 .LC14:
